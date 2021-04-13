@@ -1,0 +1,73 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		BEE22C1A262618D700641EC4 /* KeyPathOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = KeyPathOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		BEE22C13262618B600641EC4 = {
+			isa = PBXGroup;
+			children = (
+				BEE22C1A262618D700641EC4 /* KeyPathOperators.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		BEE22C14262618B600641EC4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1240;
+			};
+			buildConfigurationList = BEE22C17262618B600641EC4 /* Build configuration list for PBXProject "KeyPathOperators" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BEE22C13262618B600641EC4;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		BEE22C18262618B600641EC4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		BEE22C19262618B600641EC4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BEE22C17262618B600641EC4 /* Build configuration list for PBXProject "KeyPathOperators" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BEE22C18262618B600641EC4 /* Debug */,
+				BEE22C19262618B600641EC4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BEE22C14262618B600641EC4 /* Project object */;
+}
